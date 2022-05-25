@@ -2,8 +2,6 @@
 Hello world 
 goodbye
 yahoo
-<<<<<<< Updated upstream
-=======
 sdasdasd
 
 hello everyone
@@ -11,4 +9,3 @@ hello everyone
 github session
 
 hello by fluke
->>>>>>> Stashed changes
